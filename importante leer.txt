@@ -1,0 +1,12 @@
+Aspectos a tener en cuenta:
+1. Tener python instalado en tu ordenador(te recomiendo instalar python 3.7 o 3.8 para evitar problemas de compatibilidad)
+2. tener pip actualizado a la ultima versión antes de instalar pytube
+
+Para instalar pytube en el cmd de windows pegar lo siguiente:
+python -m pip install git+https://github.com/nficano/pytube
+
+
+Si estas aquí fue por que viste mi video espero que te sirviera y te fuera útil te invito a mi instagram para que no te pierdas de mucho contenido interesante:
+https://www.instagram.com/programaconsosa/
+
+Saludos y cuidate amig@!!
